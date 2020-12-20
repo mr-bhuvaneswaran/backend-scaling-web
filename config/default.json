@@ -1,0 +1,11 @@
+{
+    "db": {
+        "name": "scaling_Web",
+        "host": "localhost",
+        "port": 27017
+    },
+    "api": {
+        "port": 3001,
+        "environment": "local"
+    }
+}
